@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment faciliter l’accès et la compréhension du contenu pour les robots d&#39;exploration
 * Affichage par Adobe Brand Visibility des citations tierces à aligner
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502851/?captions=fre_fr&learn=on){transcript=true}

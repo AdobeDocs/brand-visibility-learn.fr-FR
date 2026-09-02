@@ -33,4 +33,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment la récupération (RAG) fonde les réponses dans les sources actives et produit des citations
 * Pourquoi la monnaie de la découverte passe du clic à la citation, et les cinq leviers qui gagnent des citations
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502887/?captions=fre_fr&learn=on){transcript=true}

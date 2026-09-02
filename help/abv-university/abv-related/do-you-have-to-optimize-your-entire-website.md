@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Où consulter les suggestions que vous avez appliquées et celles qui sont toujours en cours
 * Comment annuler une optimisation à tout moment
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502729/?captions=fre_fr&learn=on){transcript=true}

@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi faciliter la lecture d’un contenu n’est pas de la manipulation
 * Pourquoi l’exécution dans le réseau CDN en fait un processus naturel à faible risque
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502806/?captions=fre_fr&learn=on){transcript=true}

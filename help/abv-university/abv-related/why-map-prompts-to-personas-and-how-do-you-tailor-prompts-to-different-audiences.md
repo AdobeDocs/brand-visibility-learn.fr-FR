@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment regrouper des sujets par persona, comme un décideur ou un étudiant
 * Pourquoi la visibilité moyenne sur une audience entière masque votre position réelle
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502797/?captions=fre_fr&learn=on){transcript=true}

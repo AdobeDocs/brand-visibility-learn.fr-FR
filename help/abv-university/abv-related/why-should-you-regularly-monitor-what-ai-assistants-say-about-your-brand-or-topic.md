@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment des informations tierces incorrectes peuvent créer une mauvaise expérience client
 * Pourquoi la surveillance hebdomadaire est une cadence pratique, avec une disponibilité quotidienne
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502815/?captions=fre_fr&learn=on){transcript=true}

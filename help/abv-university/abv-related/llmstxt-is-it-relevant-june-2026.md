@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Ce qui a changé récemment, y compris la lecture du fichier par Google
 * Pourquoi en créer une est une assurance de faible effort, pas une garantie de citation
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502896/?captions=fre_fr&learn=on){transcript=true}

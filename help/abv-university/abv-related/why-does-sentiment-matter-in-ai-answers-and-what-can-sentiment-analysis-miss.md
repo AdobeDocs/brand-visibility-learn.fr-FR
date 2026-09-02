@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi une même invite peut-elle renvoyer une tonalité différente selon les utilisateurs et les jours ?
 * Comment Adobe Brand Visibility effectue le suivi du sentiment au fil du temps et par invite
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502878/?captions=fre_fr&learn=on){transcript=true}

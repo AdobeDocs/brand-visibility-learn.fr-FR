@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment la récupération (RAG) est ce qui produit une véritable citation
 * Pourquoi une citation est un signal plus fort que votre marque a été utilisée comme preuve
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502842/?captions=fre_fr&learn=on){transcript=true}
