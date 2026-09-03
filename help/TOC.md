@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriels sur Brand Visibility
 user-guide-description: Tutoriels sur Brand Visibility
-source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
+source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Université de visibilité des marques {#tutorials}
 
-+ [Présentation](overview-landing-cards.md)
++ [Présentation](overview.md)
 + [Fonctionnement des LLM : guide du spécialiste marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Rapport sur les performances de l’IA pour les outils de webmaster Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Devez-Vous Optimiser L&#39;Ensemble De Votre Site Web ?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
