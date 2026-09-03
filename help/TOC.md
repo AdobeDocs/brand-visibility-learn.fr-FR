@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriels sur Brand Visibility
 user-guide-description: Tutoriels sur Brand Visibility
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -12,10 +12,10 @@ ht-degree: 0%
 # Université de visibilité des marques {#tutorials}
 
 + [Présentation](overview.md)
++ [Fonctionnement des LLM : guide du spécialiste marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Rapport sur les performances de l’IA pour les outils de webmaster Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Devez-Vous Optimiser L&#39;Ensemble De Votre Site Web ?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [Écriture d’invites pour des informations géographiques fiables et reproductibles](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [Fonctionnement des LLM : guide du spécialiste marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Comment surveiller les différences régionales dans les réponses de marque de l’IA](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [Renforcement des pouvoirs de marque pour les domaines à faible trafic d’agents](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [L’ajout de résumés de page conviviaux pour l’IA est-il en train de se masquer ?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
