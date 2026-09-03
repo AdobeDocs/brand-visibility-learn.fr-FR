@@ -3,8 +3,10 @@ title: 'Visibilité des marques University : Tutoriels vidéo GEO'
 description: Découvrez comment fonctionnent les Recherche optimisée par l'IA et les LLM et comment obtenir des visibilités des marques et des citations dans les réponses de l'IA, avec des vidéos de valeur pratique de la Visibilité des marques University.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: cfcef805ff63c2b290999b01c21b1c6b3d6abe1a
 workflow-type: tm+mt
 source-wordcount: 153
