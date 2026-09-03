@@ -1,7 +1,8 @@
 ---
 user-guide-title: Tutoriels sur Brand Visibility
 user-guide-description: Tutoriels sur Brand Visibility
-source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
+nudge: edit
+source-git-commit: 367cfb84279de24e826f8e0ad3bc07e5e4c45e58
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
