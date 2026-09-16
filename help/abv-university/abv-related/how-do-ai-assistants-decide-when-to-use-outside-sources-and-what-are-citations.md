@@ -45,4 +45,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi certaines citations sont hallucinées et peuvent conduire à des 404
 * Comment indiquer à une source réelle récupérée à partir de texte généré par le modèle
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502833/?captions=fre_fr&learn=on){transcript=true}

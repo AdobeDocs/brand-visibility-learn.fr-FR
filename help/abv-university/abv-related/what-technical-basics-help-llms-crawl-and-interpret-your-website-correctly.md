@@ -51,4 +51,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi des canaux, des paywall et des murs de connexion incohérents limitent l’accès à l’IA
 * Comment le rendu côté client masque le contenu et comment la visibilité du contenu de récupération le corrige
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502924/?captions=fre_fr&learn=on){transcript=true}

@@ -46,4 +46,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi l’écriture de l’emplacement dans l’invite correspond le mieux au comportement réel de l’utilisateur
 * Qui invite à commencer et comment l’approche s’applique à tous les secteurs d’activité
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502753/?captions=fre_fr&learn=on){transcript=true}

@@ -49,4 +49,4 @@ Dans cette vidéo, vous apprendrez :
 * Le rendu préalable d’HTML est diffusé uniquement aux robots d’IA, et non aux utilisateurs
 * Comment les résumés et les tables des matières injectés aident les robots à comprendre une page
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502788/?captions=fre_fr&learn=on){transcript=true}

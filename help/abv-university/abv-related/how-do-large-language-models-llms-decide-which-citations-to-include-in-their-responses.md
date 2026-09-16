@@ -46,4 +46,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi une couverture cohérente peut battre un seul classement numéro un
 * Pourquoi le contenu thématique profond et le référencement naturel (SEO) sont-ils toujours au cœur des citations ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502824/?captions=fre_fr&learn=on){transcript=true}

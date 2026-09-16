@@ -51,4 +51,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi le score est une étoile polaire sur laquelle il est difficile d&#39;agir seul
 * Les mesures à associer à ce rapport, des mentions et citations à l’agent et au trafic de recommandation
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502905/?captions=fre_fr&learn=on){transcript=true}

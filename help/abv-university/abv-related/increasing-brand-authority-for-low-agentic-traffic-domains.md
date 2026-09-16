@@ -46,4 +46,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi obtenir votre propre contenu précis et cohérent avant de le diffuser hors site ?
 * Comment les opportunités hors site (sentiment cité, Wikipedia, Reddit, YouTube) et les leviers classiques tels que les backlinks et les critiques construisent l&#39;autorité
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502779/?captions=fre_fr&learn=on){transcript=true}

@@ -54,4 +54,4 @@ Dans cette vidéo, vous apprendrez :
 * Le nombre de mots de visibilité du contenu indique combien l’IA voit réellement.
 * Pourquoi les agents ont besoin d’une structure de page claire, en particulier pour les formulaires et les interactions
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502770/?captions=fre_fr&learn=on){transcript=true}

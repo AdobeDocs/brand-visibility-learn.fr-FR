@@ -51,4 +51,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment les optimisations Edge servent actuellement uniquement les robots d’IA, et non les robots d&#39;exploration de recherche
 * Nombre de secondes nécessaires pour annuler une optimisation à partir du réseau CDN
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502864/?captions=fre_fr&learn=on){transcript=true}

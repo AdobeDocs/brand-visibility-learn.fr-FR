@@ -50,4 +50,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi les noms de marque qui sont également des mots courants sont-ils difficiles à détecter ?
 * Pourquoi la mesure est une amélioration continue qui ne cesse de s’améliorer
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502860/?captions=fre_fr&learn=on){transcript=true}
