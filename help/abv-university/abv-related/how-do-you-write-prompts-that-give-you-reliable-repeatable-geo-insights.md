@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit1
+source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # Comment Écrire Des Invites Qui Vous Donnent Des Informations Géographiques Fiables Et Répétables
 
 Traitez les invites que vous suivez comme des cas de test. Cette vidéo montre comment des invites réalistes, spécifiques et répétables vous donnent des informations de visibilité d’IA stables et fiables dans Adobe Brand Visibility.
@@ -34,4 +33,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi la conservation d’un journal avec versions de vos invites et de leur intention les améliore au fil du temps
 * Comment charger vos invites dans la configuration client et pourquoi des modifications fréquentes peuvent affecter les scores historiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3502744/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
