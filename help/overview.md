@@ -1,17 +1,27 @@
 ---
 title: 'Visibilité des marques University : Tutoriels vidéo GEO'
 description: Découvrez comment fonctionnent les Recherche optimisée par l'IA et les LLM et comment obtenir des visibilités des marques et des citations dans les réponses de l'IA, avec des vidéos de valeur pratique de la Visibilité des marques University.
+TQID: 'https://experienceleague.adobe.com/VOCd3YkMjxOBDqardm3q1mMMDgVkA8MkXoozUlkF9Y8'
 product_v2:
   - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
 feature_v2:
+  - id: 2bd08bda-a7a9-5c12-8ee6-d68b9f21b84e
+    internal-label: CDN
   - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
-source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
+    internal-label: Getting started
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
-source-wordcount: 845
+source-wordcount: '845'
 ht-degree: 3%
-
 ---
-
 
 # Adobe Brand Visibility University
 
@@ -59,7 +69,7 @@ Découvrez comment les assistants d’IA choisissent entre l’entraînement des
 [Observer](abv-university/abv-related/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations.md)
 :::
 :::card
-![Comment les LLM décident des citations à inclure &#x200B;](/help/assets/overview/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses.png)
+![Comment les LLM décident des citations à inclure ](/help/assets/overview/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses.png)
 
 Comment les LLM décident des citations à inclure
 
@@ -120,7 +130,7 @@ Pourquoi les résumés compatibles avec l’IA qui réorganisent le contenu exis
 [Observer](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
 :::
 :::card
-![Devez-vous optimiser l’ensemble de votre site web ? &#x200B;](/help/assets/overview/do-you-have-to-optimize-your-entire-website.png)
+![Devez-vous optimiser l’ensemble de votre site web ? ](/help/assets/overview/do-you-have-to-optimize-your-entire-website.png)
 
 Devez-Vous Optimiser L&#39;Ensemble De Votre Site Web ?
 
@@ -215,7 +225,7 @@ Améliorez les dires de l’IA en faisant de votre site la source la plus claire
 [Observer](abv-university/abv-related/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services.md)
 :::
 :::card
-![Comment surveiller les différences régionales dans les réponses de marque de l’IA &#x200B;](/help/assets/overview/how-to-monitor-regional-differences-in-ai-brand-responses.png)
+![Comment surveiller les différences régionales dans les réponses de marque de l’IA ](/help/assets/overview/how-to-monitor-regional-differences-in-ai-brand-responses.png)
 
 Comment surveiller les différences régionales dans les réponses de marque de l’IA
 
@@ -224,7 +234,7 @@ Pourquoi l’écriture de l’emplacement dans l’invite fait que la surveillan
 [Observer](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 :::
 :::card
-![Pourquoi surveiller régulièrement les réponses de l’IA sur votre marque &#x200B;](/help/assets/overview/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.png)
+![Pourquoi surveiller régulièrement les réponses de l’IA sur votre marque ](/help/assets/overview/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.png)
 
 Pourquoi surveiller régulièrement les réponses de l’IA sur votre marque ?
 
