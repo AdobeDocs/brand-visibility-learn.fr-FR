@@ -49,4 +49,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi la conservation d’un journal avec versions de vos invites et de leur intention les améliore au fil du temps
 * Comment charger vos invites dans la configuration client et pourquoi des modifications fréquentes peuvent affecter les scores historiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502744/?captions=fre_fr&learn=on){transcript=true}
