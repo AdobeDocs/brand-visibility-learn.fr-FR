@@ -17,15 +17,18 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '863'
 ht-degree: 3%
 ---
 
 # Adobe Brand Visibility University
 
 Bienvenue à Adobe Brand Visibility University, une bibliothèque croissante de vidéos courtes et pratiques qui expliquent le fonctionnement des modèles Recherche optimisée par l&#39;IA et en grand langage, ainsi que la manière d’acquérir de la visibilité et des citations pour votre marque dans les réponses de l’IA. Parcourez par rubrique ci-dessous.
+
+>[!NOTE]
+>Pour obtenir une documentation complète, consultez la documentation de [&#128279;](https://experienceleague.adobe.com/fr/docs/brand-visibility/using/home).
 
 ## Notions de base : fonctionnement de Recherche optimisée par l&#39;IA {#foundations}
 
