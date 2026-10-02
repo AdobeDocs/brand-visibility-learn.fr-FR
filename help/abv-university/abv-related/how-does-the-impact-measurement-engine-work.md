@@ -33,7 +33,7 @@ Dans cette vidéo, vous apprendrez :
 * Emplacement du rapport avant et après dans le Workspace d’opportunités
 * Pourquoi les visiteurs humains ne voient aucune modification tandis que l’IA voit la page optimisée
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504049/?captions=fre_fr&learn=on){transcript=true}
 
 >[!NOTE]
 >Sélectionnez au moins 20 URL afin que le moteur dispose d’un échantillon suffisamment grand pour mesurer précisément l’impact. La mesure d’impact est disponible aujourd’hui pour la visibilité du contenu de récupération et s’étend à toutes les opportunités d’optimisation d’Edge.
