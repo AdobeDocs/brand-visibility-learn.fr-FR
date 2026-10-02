@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: 776712b686ae1f9c9ba3710dc7629233c559ae07
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -49,4 +52,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi la conservation d’un journal avec versions de vos invites et de leur intention les améliore au fil du temps
 * Comment charger vos invites dans la configuration client et pourquoi des modifications fréquentes peuvent affecter les scores historiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3502744/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

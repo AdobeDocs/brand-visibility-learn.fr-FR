@@ -21,7 +21,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -45,4 +48,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi certaines citations sont hallucinées et peuvent conduire à des 404
 * Comment indiquer à une source réelle récupérée à partir de texte généré par le modèle
 
->[!VIDEO](https://video.tv.adobe.com/v/3502833/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
