@@ -32,4 +32,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment lire votre propre présentation de l’IA dédiée aux marques et voir quelles sources Google cite
 * Pourquoi la réponse de l&#39;IA sur votre marque mérite d&#39;être observée aussi attentivement que vos classements
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504215/?captions=fre_fr&learn=on){transcript=true}
