@@ -1,15 +1,17 @@
 ---
 user-guide-title: Tutoriels sur Brand Visibility
 user-guide-description: Tutoriels sur Brand Visibility
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # Université de visibilité des marques {#tutorials}
 
 + [Présentation](overview.md)
++ Informations et perspectives {#news-and-insights}
+  + [Google répond désormais aux noms de marque avec des présentations de l’IA](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Notions de base : fonctionnement de Recherche optimisée par l&#39;IA {#foundations}
   + [Fonctionnement des LLM : guide du spécialiste marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [Écriture d’invites pour des informations géographiques fiables et reproductibles](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
