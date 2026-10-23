@@ -33,4 +33,4 @@ Dans cette vidéo, vous apprendrez :
 * Par où commencer, de la recherche en lecture seule aux actions à enjeux plus élevés
 * La place d’Adobe Sites Optimizer et de Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504844/?captions=fre_fr&learn=on){transcript=true}

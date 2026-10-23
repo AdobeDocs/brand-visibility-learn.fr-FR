@@ -32,4 +32,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment ajouter le bouton avec deux lignes d’HTML ou un simple lien de secours
 * Comment vérifier l’éligibilité et suivre les sélections dans la console de recherche Google
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504835/?captions=fre_fr&learn=on){transcript=true}
