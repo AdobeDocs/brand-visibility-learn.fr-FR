@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -28,13 +28,31 @@ ht-degree: 2%
 Bienvenue à Adobe Brand Visibility University, une bibliothèque croissante de vidéos courtes et pratiques qui expliquent le fonctionnement des modèles Recherche optimisée par l&#39;IA et en grand langage, ainsi que la manière d’acquérir de la visibilité et des citations pour votre marque dans les réponses de l’IA. Parcourez par rubrique ci-dessous.
 
 >[!NOTE]
->Pour obtenir une documentation complète, consultez la documentation de [&#128279;](https://experienceleague.adobe.com/fr/docs/brand-visibility/using/home).
+>Pour obtenir une documentation complète, consultez la documentation de [](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
 
 ## Informations et perspectives {#news-and-insights}
 
 Les dernières évolutions de Recherche optimisée par l&#39;IA et ce qu’elles signifient pour votre marque
 
 ::::landing-cards-container
+:::card
+![Explication Des Sources Préférées De ](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Présentation des sources préférées de Google
+
+À quoi sert la fonctionnalité Sources préférées de Google, pourquoi elle se développe rapidement et comment l’ajouter dans deux lignes d’HTML.
+
+[Observer](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP et utilisation de votre site par les agents IA](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP et utilisation de votre site par les agents d’IA
+
+Comment WebMCP permet aux agents d’IA d’appeler les outils de votre page comme une API, en quoi il diffère de MCP et où commencer.
+
+[Observer](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![Google répond désormais aux noms de marque avec des vues d&#39;ensemble de l&#39;IA](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
@@ -88,7 +106,7 @@ Découvrez comment les assistants d’IA choisissent entre l’entraînement des
 [Observer](abv-university/abv-related/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations.md)
 :::
 :::card
-![Comment les LLM décident des citations à inclure &#x200B;](/help/assets/overview/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses.png)
+![Comment les LLM décident des citations à inclure ](/help/assets/overview/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses.png)
 
 Comment les LLM décident des citations à inclure
 
@@ -149,7 +167,7 @@ Pourquoi les résumés compatibles avec l’IA qui réorganisent le contenu exis
 [Observer](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
 :::
 :::card
-![Devez-vous optimiser l’ensemble de votre site web ? &#x200B;](/help/assets/overview/do-you-have-to-optimize-your-entire-website.png)
+![Devez-vous optimiser l’ensemble de votre site web ? ](/help/assets/overview/do-you-have-to-optimize-your-entire-website.png)
 
 Devez-Vous Optimiser L&#39;Ensemble De Votre Site Web ?
 
@@ -253,7 +271,7 @@ Améliorez les dires de l’IA en faisant de votre site la source la plus claire
 [Observer](abv-university/abv-related/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services.md)
 :::
 :::card
-![Comment surveiller les différences régionales dans les réponses de marque de l’IA &#x200B;](/help/assets/overview/how-to-monitor-regional-differences-in-ai-brand-responses.png)
+![Comment surveiller les différences régionales dans les réponses de marque de l’IA ](/help/assets/overview/how-to-monitor-regional-differences-in-ai-brand-responses.png)
 
 Comment surveiller les différences régionales dans les réponses de marque de l’IA
 
@@ -262,7 +280,7 @@ Pourquoi l’écriture de l’emplacement dans l’invite fait que la surveillan
 [Observer](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 :::
 :::card
-![Pourquoi surveiller régulièrement les réponses de l’IA sur votre marque &#x200B;](/help/assets/overview/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.png)
+![Pourquoi surveiller régulièrement les réponses de l’IA sur votre marque ](/help/assets/overview/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.png)
 
 Pourquoi surveiller régulièrement les réponses de l’IA sur votre marque ?
 
