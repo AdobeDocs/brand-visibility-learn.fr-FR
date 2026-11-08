@@ -31,12 +31,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 ---
-# Pourquoi Devriez-Vous Surveiller Régulièrement Ce Que Disent Les Assistants En IA Sur Votre Marque Ou Sujet ?
+# Pourquoi devriez-vous régulièrement surveiller ce que les assistants d&#39;IA disent sur votre marque ou votre sujet ?
 
 Les réponses de l’IA changent rapidement à mesure que les modèles se mettent à jour et que le web évolue. Cette vidéo explique pourquoi la surveillance régulière est l’assurance qualité de la manière dont l’IA dépeint votre marque.
 
@@ -55,4 +55,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment des informations tierces incorrectes peuvent créer une mauvaise expérience client
 * Pourquoi la surveillance hebdomadaire est une cadence pratique, avec une disponibilité quotidienne
 
->[!VIDEO](https://video.tv.adobe.com/v/3502815/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}

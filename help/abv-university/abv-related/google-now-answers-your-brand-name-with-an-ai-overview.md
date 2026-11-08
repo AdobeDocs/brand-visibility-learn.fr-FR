@@ -8,7 +8,7 @@ doc-type: Value Video
 duration: 135
 last-substantial-update: 2026-10-08
 jira: KT-22790
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment lire votre propre présentation de l’IA dédiée aux marques et voir quelles sources Google cite
 * Pourquoi la réponse de l&#39;IA sur votre marque mérite d&#39;être observée aussi attentivement que vos classements
 
->[!VIDEO](https://video.tv.adobe.com/v/3504215/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}

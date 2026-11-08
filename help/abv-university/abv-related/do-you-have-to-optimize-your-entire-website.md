@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# Devez-Vous Optimiser L&#39;Ensemble De Votre Site Web ?
+# Devez-vous optimiser l&#39;ensemble de votre site web ?
 
 Non. Avec Adobe Brand Visibility (anciennement LLM Optimizer), vous décidez des pages à optimiser. Chaque page que vous ne sélectionnez pas est diffusée exactement comme elle est aujourd’hui. Cette vidéo explique le fonctionnement de ce contrôle page par page.
 
@@ -54,4 +54,4 @@ Dans cette vidéo, vous apprendrez :
 * Où consulter les suggestions que vous avez appliquées et celles qui sont toujours en cours
 * Comment annuler une optimisation à tout moment
 
->[!VIDEO](https://video.tv.adobe.com/v/3502729/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}

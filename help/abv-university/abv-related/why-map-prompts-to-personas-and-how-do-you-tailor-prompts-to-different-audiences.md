@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# Pourquoi mapper des invites à des rôles et comment personnaliser des invites pour différentes audiences ?
+# Pourquoi mapper des invites à des rôles et comment adapter les invites à différentes audiences ?
 
 Les groupes de mappage d’invites basés sur des personas regroupent les invites par types d’utilisateurs réels. Cette vidéo montre pourquoi l’adaptation des invites à vos audiences révèle votre véritable position dans les réponses de l’IA.
 
@@ -49,4 +49,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment regrouper des sujets par persona, comme un décideur ou un étudiant
 * Pourquoi la visibilité moyenne sur une audience entière masque votre position réelle
 
->[!VIDEO](https://video.tv.adobe.com/v/3502797/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}

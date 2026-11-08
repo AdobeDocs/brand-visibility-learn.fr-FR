@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# Comment les assistants d’IA décident-ils d’utiliser des sources externes et que sont les citations ?
+# Comment les assistants d’IA décident-ils d’utiliser des sources externes et quelles sont les citations ?
 
 Les assistants d’IA répondent à partir des données d’identification ou récupèrent d’abord les sources actives. Cette vidéo montre comment ils décident, ce qu&#39;est vraiment une citation, et pourquoi certains ne sont pas réels.
 
@@ -48,4 +48,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi certaines citations sont hallucinées et peuvent conduire à des 404
 * Comment indiquer à une source réelle récupérée à partir de texte généré par le modèle
 
->[!VIDEO](https://video.tv.adobe.com/v/3502833/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 ---
-# Augmentation de trafic de recommandation depuis ChatGPT en mai 2026
+# Augmentation des trafics de recommandation depuis ChatGPT en mai 2026
 
 Les données d’Adobe montrent que le trafic de recommandation de ChatGPT augmente d’environ 60 %. Cette vidéo explique pourquoi et ce que cela signifie lorsque le ChatGPT passe d’un canal de marque à un canal de trafic.
 
@@ -52,4 +52,4 @@ Dans cette vidéo, vous apprendrez :
 * Ce que cela signifie, c&#39;est que ChatGPT est à nouveau un canal de trafic, pas seulement un canal de marque
 * Comment la nouvelle fonctionnalité de trafic de recommandation de l’Inspecteur d’URL effectue cette surface
 
->[!VIDEO](https://video.tv.adobe.com/v/3502911/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}

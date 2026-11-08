@@ -29,12 +29,12 @@ topic_v2:
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 ---
-# Ce que nous ne pouvons pas encore mesurer correctement dans GEO et comment la mesure s’améliorera au fil du temps
+# Ce que nous ne pouvons pas encore bien mesurer dans GEO et comment la mesure s&#39;améliorera au fil du temps
 
 La mesure de la géolocalisation est difficile, car l&#39;IA est non déterministe et se déplace selon la région, la récence et la personnalisation. Cette vidéo présente ce qui est difficile à mesurer aujourd’hui et comment cela s’améliore.
 
@@ -53,4 +53,4 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi les noms de marque qui sont également des mots courants sont-ils difficiles à détecter ?
 * Pourquoi la mesure est une amélioration continue qui ne cesse de s’améliorer
 
->[!VIDEO](https://video.tv.adobe.com/v/3502860/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
