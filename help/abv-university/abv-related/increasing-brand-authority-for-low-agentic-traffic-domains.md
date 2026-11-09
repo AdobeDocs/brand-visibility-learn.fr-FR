@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 ---
-# Renforcement des pouvoirs de marque pour les domaines à faible trafic d’agents
+# Amélioration de l’autorité de marque pour les domaines à faible trafic d’agents
 
 L’autorité de marque décide si vous êtes le meilleur référent dans les recherches et si vous êtes cité dans les réponses de l’IA. Cette vidéo montre comment le créer à partir de liens, de mentions et de réputation, et le mesurer dans Adobe Brand Visibility même lorsque le trafic d’IA est toujours faible.
 

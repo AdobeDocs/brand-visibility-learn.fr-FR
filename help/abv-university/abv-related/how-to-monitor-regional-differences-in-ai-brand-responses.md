@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# Comment surveiller les différences régionales dans les réponses de marque de l’IA
+# Comment surveiller les différences régionales dans les réponses de marque de l&#39;IA
 
 Les assistants d’IA répondent différemment selon l’endroit où ils pensent que se trouve l’utilisateur. Cette vidéo montre pourquoi l’écriture d’un emplacement directement dans vos invites de surveillance fait en sorte que les résultats reflètent ce que vos clients voient réellement.
 

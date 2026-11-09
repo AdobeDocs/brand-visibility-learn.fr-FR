@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# Quelles notions de base techniques aident les gestionnaires de sites Web à Explorer et à interpréter correctement votre site Web ?
+# Quelles sont les notions de base techniques qui aident les gestionnaires de sites Web à explorer et interpréter correctement votre site Web ?
 
 Les expériences LLM reposent sur la même infrastructure web que la recherche : exploré, indexation et rendu. Cette vidéo couvre les principes de base techniques qui permettent de rendre votre contenu visible et accessible.
 

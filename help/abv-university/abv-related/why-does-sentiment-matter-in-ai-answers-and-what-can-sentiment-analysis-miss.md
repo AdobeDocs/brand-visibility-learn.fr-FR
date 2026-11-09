@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# Pourquoi le Sentiment est-il important dans les réponses de l’IA et que peut manquer l’analyse du Sentiment ?
+# Pourquoi le sentiment importe-t-il dans les réponses de l’IA et que peut manquer l’analyse du sentiment ?
 
 Le sentiment est la direction émotionnelle du langage, et il façonne la façon dont les réponses de l&#39;IA décrivent votre marque. Cette vidéo explique pourquoi cela est important et où l’analyse de sentiment peut mal tourner.
 

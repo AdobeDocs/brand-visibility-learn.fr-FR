@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# Comment les LLM de modèles linguistiques volumineux décident-ils des citations à inclure dans leurs réponses ?
+# Comment les LLM de grands modèles linguistiques décident-ils des citations à inclure dans leurs réponses ?
 
 Les LLM peuvent afficher une seule invite dans de nombreuses requêtes plus petites et citer les sources qui fonctionnent le mieux pour chacune d’elles. Cette vidéo explique ce que cela signifie pour que votre marque soit citée.
 
