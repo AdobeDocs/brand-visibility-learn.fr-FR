@@ -8,7 +8,7 @@ usetq: true
 type: Tutorial
 description: Documentation de Brand Visibility.
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.fr-FR
 index: true
 nudge: true
 recommendations: noDisplay
